@@ -7,6 +7,8 @@ Inbox-to-Earn solves both problems!
 
 Using Mizu wallet *User A* simply sets a price to receive a priority message. Then *User B* pays that price at https://chiho.ai/priorityinbox to land on top of *User A's* Telegram inbox.
 
+We deployed our custom contract on Aptos, to track payment requests and payments on testnet at https://explorer.aptoslabs.com/account/0xa472489fcd4d7be156d6a2870ea3276446e030708e403be7031f0cfd7bf085c8/modules/code/chiho_priority_inbox/pay_for_priority?network=testnet
+
 Get started now at chiho.ai!
 
 ![paid inbox.png](https://cdn.dorahacks.io/static/files/1928a836e0c988b3a56faa94facb11e2.png)
