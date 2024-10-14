@@ -1,0 +1,18 @@
+# dependencies
+/node_modules/
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# next.js
+.next/
+out/
+build
+
+# Package lock files
+yarn.lock
+pnpm-lock.yaml
